@@ -34,9 +34,6 @@ dependencies:
 - name: touched-walleye
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: wise-termite
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: wondrous-akita
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
