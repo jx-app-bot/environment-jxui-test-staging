@@ -28,6 +28,9 @@ dependencies:
 - name: jxui-frontend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: keen-halibut
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: moral-pika
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
