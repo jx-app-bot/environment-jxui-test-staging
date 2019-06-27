@@ -2,6 +2,9 @@ dependencies:
 - name: amazed-arachnid
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: destined-anchovy
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: driven-condor
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
