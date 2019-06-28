@@ -1,4 +1,7 @@
 dependencies:
+- name: absolute-oryx
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: amazed-arachnid
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
