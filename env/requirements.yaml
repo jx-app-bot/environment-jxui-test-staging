@@ -23,11 +23,14 @@ dependencies:
 - name: easy-sailfish
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- alias: cleanup
+- name: evolving-caribou
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- alias: expose
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
