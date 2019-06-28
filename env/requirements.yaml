@@ -5,6 +5,9 @@ dependencies:
 - name: apparent-baboon
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: arriving-anchovy
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: classic-fawn
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
