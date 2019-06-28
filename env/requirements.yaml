@@ -26,6 +26,9 @@ dependencies:
 - name: easy-sailfish
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: endless-viper
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: evolving-caribou
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
