@@ -40,9 +40,6 @@ dependencies:
 - name: leading-bluebird
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: loved-fawn
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: model-fly
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
