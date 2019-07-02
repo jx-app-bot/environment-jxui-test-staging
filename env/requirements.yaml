@@ -46,6 +46,9 @@ dependencies:
 - name: famous-flounder
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: first-koala
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: fleet-phoenix
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
