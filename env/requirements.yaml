@@ -5,6 +5,9 @@ dependencies:
 - name: amazed-arachnid
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: amazing-marmoset
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: apparent-baboon
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
