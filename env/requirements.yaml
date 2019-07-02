@@ -88,6 +88,9 @@ dependencies:
 - name: moral-pika
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: moving-badger
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: moving-starfish
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
