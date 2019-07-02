@@ -17,6 +17,9 @@ dependencies:
 - name: classic-fawn
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: clever-dogfish
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: cool-mite
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
