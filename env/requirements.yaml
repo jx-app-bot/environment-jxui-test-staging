@@ -76,9 +76,6 @@ dependencies:
 - name: moral-pika
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: neat-insect
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: noble-crane
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
