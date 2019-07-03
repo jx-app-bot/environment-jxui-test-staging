@@ -100,9 +100,6 @@ dependencies:
 - name: rich-bass
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: talented-dassie
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: touched-walleye
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
