@@ -17,9 +17,6 @@ dependencies:
 - name: classic-fawn
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: comic-sculpin
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: concrete-monkey
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
