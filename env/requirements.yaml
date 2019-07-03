@@ -88,6 +88,9 @@ dependencies:
 - name: pretty-cockatoo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: profound-marlin
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: rare-moose
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
