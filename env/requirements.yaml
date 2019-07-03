@@ -115,6 +115,9 @@ dependencies:
 - name: unbiased-stallion
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: valid-tahr
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: wealthy-cod
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
