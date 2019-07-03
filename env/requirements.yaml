@@ -67,9 +67,6 @@ dependencies:
 - name: loved-fawn
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: loving-raven
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: loyal-seasnail
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
