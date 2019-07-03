@@ -91,6 +91,9 @@ dependencies:
 - name: rare-moose
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: relaxing-pegasus
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: relevant-arachnid
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
