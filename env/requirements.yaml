@@ -1,4 +1,7 @@
 dependencies:
+- name: able-colt
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: absolute-oryx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
