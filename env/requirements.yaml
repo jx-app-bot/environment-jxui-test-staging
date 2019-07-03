@@ -2,6 +2,9 @@ dependencies:
 - name: absolute-oryx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: ace-mosquito
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: amazed-arachnid
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
@@ -35,11 +38,11 @@ dependencies:
 - name: evolving-caribou
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- alias: cleanup
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- alias: expose
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
