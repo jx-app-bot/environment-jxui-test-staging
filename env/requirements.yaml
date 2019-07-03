@@ -85,9 +85,6 @@ dependencies:
 - name: noble-crane
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: precious-joey
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: pretty-cockatoo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
