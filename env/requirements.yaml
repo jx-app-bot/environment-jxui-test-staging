@@ -109,9 +109,6 @@ dependencies:
 - name: rich-bass
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: superb-hog
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: thankful-hog
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
